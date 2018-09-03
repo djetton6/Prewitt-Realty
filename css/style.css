@@ -1,3 +1,13 @@
 .jumbotron {
     background-image:url('../image/bridgeport-cover-size.jpg')
 }
+
+nav {
+    background-color: darkslategrey;
+    font-size: medium;
+    text-align: center;
+}
+
+.nav-link {
+    color:white;
+}
