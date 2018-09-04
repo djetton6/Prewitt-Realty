@@ -59,6 +59,17 @@ nav {
     color:white;
 }
 
-.carousel{
 
+.card {
+    float: left;
+}
+
+.listings-section {
+    background-color: #BCBECA;
+
+}
+.property-description {
+    text-align: center;
+    background: color #c3cadc;
+    
 }
