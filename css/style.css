@@ -13,11 +13,12 @@ body p {
 .section-header {
     color: lightgray;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 40px;
+    font-size: 60px;
     text-align: center;
     margin-top: 3%;
     margin-bottom: 2%;
 }
+
 .jumbotron {
     background-image:url('../image/bridgeport-cover-resize.png');
     background-position: 50%;
@@ -55,14 +56,11 @@ nav {
     max-width: 400px;
     height: 100px;
 }
+
 .nav-link {
     color:white;
 }
 
-
-.card {
-    float: left;
-}
 
 .listings-section {
     background-color: #BCBECA;
@@ -70,6 +68,7 @@ nav {
 }
 
 .card {
+    float: left;
     color: black;
     font-size: 18px;
 }
@@ -77,6 +76,7 @@ nav {
 .card img {
     border-radius: 50%;
 }
+
 .property-description {
     text-align: center;
     background: color #c3cadc;
@@ -87,7 +87,9 @@ nav {
     margin-bottom: 15px;
     background-color: #B0AAAE;
     color:white;
+    border-radius: 15px;
 }
+
 #main-about {
     font-size: 70px;
     color:black; 
