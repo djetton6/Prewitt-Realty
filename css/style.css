@@ -68,8 +68,17 @@ nav {
     background-color: #BCBECA;
 
 }
+
+.card {
+    color: black;
+    font-size: 18px;
+}
+
+.card img {
+    border-radius: 50%;
+}
 .property-description {
     text-align: center;
     background: color #c3cadc;
-    
+
 }
