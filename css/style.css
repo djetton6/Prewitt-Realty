@@ -82,3 +82,16 @@ nav {
     background: color #c3cadc;
 
 }
+.about-section {
+    margin-top:15px;
+    margin-bottom: 15px;
+    background-color: #B0AAAE;
+    color:white;
+}
+#main-about {
+    font-size: 70px;
+    color:black; 
+    background-color:white;
+    text-underline-position: below;
+    text-decoration: #c3cadc;
+}
