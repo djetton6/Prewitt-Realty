@@ -24,11 +24,13 @@ body p {
 }
 
 #intro-tag {
-    font-size: 72px;
+    font-size: 81px;
     font-stretch: expanded;
-    background-color: whitesmoke ;
     text-align: center;
     color: darkorange;
+    border-top: 12px;
+    border-bottom: 12px;
+    border-color: beige;
     text-shadow: 50px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
@@ -36,8 +38,9 @@ body p {
 .intro {
     font-size: 45px;
     color: lightgrey;
-    text-align: center;
-    width: 50%;
+    text-align: right;
+    width: 60%;
+    background-color: orange;
     margin: auto;
 
 }
@@ -54,4 +57,8 @@ nav {
 }
 .nav-link {
     color:white;
+}
+
+.carousel{
+
 }
